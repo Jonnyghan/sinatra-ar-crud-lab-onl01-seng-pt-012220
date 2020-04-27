@@ -1,4 +1,5 @@
-
+require 'rubygems'
+require 'sinatra'
 require './config/environment'
 
 begin
